@@ -7,12 +7,12 @@ Save e.g. `echo.hoon` to `home/gen` in your ship directory.
 
 Run dojo and commit the changes in the home directory.
 ```hoon
-dojo> |commit %home
+~ligdem_marzod:dojo> |commit %home
 ```
 
 Run the script and pass it an input:
 ```hoon
-dojo> +echo "Hello, World!"
+~ligdem_marzod:dojo> +echo "Hello, World!"
 ```
 
 Output should be:
