@@ -1,4 +1,4 @@
-:: remainder.hoon
+:: evenodd.hoon
 ::
 |=  n=@
 ^-  @t

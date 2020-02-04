@@ -13,9 +13,5 @@ Run dojo and commit the changes in the home directory.
 Run the script and pass it an input:
 ```hoon
 ~ligdem_marzod:dojo> +echo "Hello, World!"
-```
-
-Output should be:
-```hoon
 "hoon says: Hello, World!"
 ```
